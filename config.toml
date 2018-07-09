@@ -1,5 +1,5 @@
 title = "Jorge Martínez"
-baseURL = "https://example.com"
+baseURL = "https://jorgevna.github.io/website/"
 languageCode = "en-us"
 theme = "ananke"
 publishDir = "docs"
